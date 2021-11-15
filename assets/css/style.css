@@ -1,0 +1,18 @@
+
+
+.navlink {
+	color: white!important;
+}
+
+h4{
+	font-weight: 800;
+}
+
+footer {
+	background-color: #006C92 !important;
+	color: white!important;
+	position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
